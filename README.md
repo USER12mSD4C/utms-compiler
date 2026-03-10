@@ -8,7 +8,10 @@ Targets: raw binary, ELF, UEFI.
 **Under active development. Not stable at all.**
 
 currently even basic functional doesnt tested propperly, it contains a lot of bugs.
+
 i DONT recommend using it
+
+- tested only with arch linux
 
 ## Features
 
