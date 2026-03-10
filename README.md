@@ -5,9 +5,9 @@ Targets: raw binary, ELF, UEFI.
 
 ## ⚠️ Project status
 
-**Under active development. Not stable yet.**
+**Under active development. Not stable at all.**
 
-currently even basic functional dont want to work, so i dont recommend using it
+currently even basic functional dont want to work propperly, so i dont recommend using it
 
 ## Features (work in progress)
 
