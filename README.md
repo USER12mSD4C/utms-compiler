@@ -29,5 +29,10 @@ The compiler currently:
 
 ## Building
 
-```bash
+```
+#make everything
 make
+#install command "utmc"
+sudo make install
+```
+
