@@ -40,5 +40,4 @@ sudo make install
 
 ```
 utmc {filename.utms} {output_binary_name}
-
-
+```
