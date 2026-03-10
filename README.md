@@ -7,9 +7,10 @@ Targets: raw binary, ELF, UEFI.
 
 **Under active development. Not stable at all.**
 
-currently even basic functional dont want to work propperly, so i dont recommend using it
+currently even basic functional doesnt tested propperly, it contains a lot of bugs.
+i DONT recommend using it
 
-## Features (work in progress)
+## Features
 
 - bare metal mode (`sc.false`) and in-OS mode (`sc.true`)
 - sections (`sect.name`)
